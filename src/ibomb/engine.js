@@ -1,6 +1,3 @@
-/**
- * Created by dici on 15.10.2017.
- */
 engine = {};
 engine.canvas = null;
 engine.runtime = null;
